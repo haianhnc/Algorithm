@@ -1,0 +1,6 @@
+1.At each iteration, pick the remaining request with the fewest number of conflicts with other remaining requests (breaking ties arbitrarily). sai
+
+2. Schedule the requests in increasing order of deadline dj
+3. T must be a minimum spanning tree but P may not be a shortest s-t path.
+4. A minimum bottleneck spanning tree is not always a minimum spanning tree, but a minimum spanning tree is always a minimum bottleneck spanning tree.
+5. For every G and H, these edges are contained in some minimum spanning tree of H
